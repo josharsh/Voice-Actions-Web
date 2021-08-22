@@ -1,0 +1,27 @@
+{
+  "name": "voice-actions-web",
+  "version": "1.0.0",
+  "description": "Navigate your web applications at the ease of your voice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josharsh/Voice-Actions-Web.git"
+  },
+  "keywords": [
+    "voice",
+    "actions",
+    "web",
+    "voice",
+    "web",
+    "speech"
+  ],
+  "author": "josharsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josharsh/Voice-Actions-Web/issues"
+  },
+  "homepage": "https://github.com/josharsh/Voice-Actions-Web#readme"
+}
